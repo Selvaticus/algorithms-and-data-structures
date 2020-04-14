@@ -1,4 +1,4 @@
-function sameNumbers(number_one, number_two) {
+function sameFrequency(number_one, number_two) {
   number_one_str = number_one.toString();
   number_two_str = number_two.toString();
 
@@ -8,4 +8,4 @@ function sameNumbers(number_one, number_two) {
   return first_sorted === second_sorted;
 }
 
-module.exports = sameNumbers
+module.exports = sameFrequency
