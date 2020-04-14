@@ -1,4 +1,4 @@
-const SinglyLinkedList = require('../SinglyLinkedList/singly_linked_list');
+const SinglyLinkedList = require('../singly_linked_list/singly_linked_list');
 
 class Queue {
     constructor() {
