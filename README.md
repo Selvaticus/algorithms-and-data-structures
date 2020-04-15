@@ -1,6 +1,6 @@
 # What is this
 
-This is my output as I followed alont the *Javascripts Algorithms and Data Structures* udemy class.
+This is my output as I followed along the **Javascripts Algorithms and Data Structures** udemy class.
 
 This repo contains my implementations of the data structures and algortithms presented in class, as well as the exercices presented in the class for practice.
 
@@ -15,7 +15,7 @@ Run `yarn install` to install **jest**.
 
 Run `yarn test` to check all the implementations of the algorithms and data structures.
 
-*Note:* If you use `asdf` you can quickly instal nodejs by running `asdf install`
+*Note:* If you use `asdf` you can quickly install nodejs by running `asdf install`
 
 ## Structure
 
@@ -56,7 +56,7 @@ The `queue` folder contains the `Queue` data structure.
 
 The `binary_heap` folder contains the `Binary Heap` data structure, with implementations for min and max binary heaps.
 
-### Binary Search Tree
+### Binary Search Tree
 
 The `binary_search_tree` contains the `Binary Search Tree` data structure, the **depth first search** algorithm (**pre-order**, **post-order**, **in-order**) and the breath first algorithm. Also shows a generator performing dfs in-order, to enumerate the tree into an ordered array.
 
@@ -78,5 +78,5 @@ The `graph` folder contains the base representation of:
 Also containst algotithms for:
 
 * Depth First Search (in this case traversal)
-* breath First Search (in this case traversal)
+* Breath First Search (in this case traversal)
 * Dijkstra. For SSSP (Single Source Shortest Path), applied to find tge shortest path between 2 vertices.
