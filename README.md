@@ -23,35 +23,6 @@ There isn't a hard defined structure for this repo, just a grouping of related a
 
 Check [exercices](./exercices/README.md) for most practice exercises
 
-### Sort
-
-The `sort` folder contains most sort algorithms:
-
-* Selection Sort
-* Bubble Sort
-* Insert Sort
-* Merge Sort
-* Quick Sort
-* Merge Sort
-
-*Note: Also contains helper functions and structures*
-
-### Stack
-
-The `stack` folder contains the `Stack` data structure.
-
-### Search
-
-The `search` folder contains the `Binary Search` algorithm along a naive serve for comparison
-
-### Recursion
-
-The `recursion` folder contains simple implementations for problems using recursion
-
-### Queue
-
-The `queue` folder contains the `Queue` data structure.
-
 ### Binary Heap
 
 The `binary_heap` folder contains the `Binary Heap` data structure, with implementations for min and max binary heaps.
@@ -64,10 +35,6 @@ The `binary_search_tree` contains the `Binary Search Tree` data structure, the *
 
 The `doubly_linked_list` containst the `Doubly Linked List` data structure.
 
-### Singly Linked List
-
-The `singly_linked_list` containst the `Singly Linked List` data structure.
-
 ### Graphs
 
 The `graph` folder contains the base representation of:
@@ -79,4 +46,37 @@ Also containst algotithms for:
 
 * Depth First Search (in this case traversal)
 * Breath First Search (in this case traversal)
-* Dijkstra. For SSSP (Single Source Shortest Path), applied to find tge shortest path between 2 vertices.
+* Dijkstra. For SSSP (Single Source Shortest Path), applied to find tge shortest path between 2 vertices
+
+### Queue
+
+The `queue` folder contains the `Queue` data structure.
+
+### Recursion
+
+The `recursion` folder contains simple implementations for problems using recursion
+
+### Singly Linked List
+
+The `singly_linked_list` containst the `Singly Linked List` data structure.
+
+### Search
+
+The `search` folder contains the `Binary Search` algorithm along a naive serve for comparison
+
+### Stack
+
+The `stack` folder contains the `Stack` data structure.
+
+### Sort
+
+The `sort` folder contains most sort algorithms:
+
+* Selection Sort
+* Bubble Sort
+* Insert Sort
+* Merge Sort
+* Quick Sort
+* Merge Sort
+
+*Note: Also contains helper functions and structures*
