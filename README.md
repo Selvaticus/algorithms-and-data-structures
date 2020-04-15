@@ -29,7 +29,15 @@ The `binary_heap` folder contains the `Binary Heap` data structure, with impleme
 
 ### Binary Search Tree
 
-The `binary_search_tree` contains the `Binary Search Tree` data structure, the **depth first search** algorithm (**pre-order**, **post-order**, **in-order**) and the breath first algorithm. Also shows a generator performing dfs in-order, to enumerate the tree into an ordered array.
+The `binary_search_tree` contains the `Binary Search Tree` data structure, and algoritmhs for:
+
+* Depth First Search
+  * pre-order
+  * post-order
+  * in-order
+* Breath First Search.
+
+Also shows a generator performing *dfs in-order*, to lazy enumerate the tree into an ordered array.
 
 ### Doubly Linked List
 
