@@ -59,3 +59,31 @@ Check file `min_sub_array_len.js` for code and `min_sub_array_len.test.js` for t
 **Constraints**
 Time: O(N)
 Space: O(1)
+
+## Recursion
+
+**Constraints:** All problems should be solved using recursion.
+
+### Reverse
+
+Given a string returns its reverse
+
+Check file `reverse.js` for code and `reverse.test.js` for test cases.
+
+### Is palindrome
+
+Given a string return true if it is a palindrome
+
+Check the file `is_palindrome.js` for code and `is_palindrome.test.js` for test cases.
+
+### Any
+
+Given an array and a callback function, return true if the callback function returns true for any element in the array
+
+Check the file `any.js` for code and `any.test.js` for test cases.
+
+### Flatten
+
+Given an array that may contain other arrays, return a single array with all the values in the root and children arrays
+
+Check the file `flatten.js` for code and `flatten.test.js` for test cases.
