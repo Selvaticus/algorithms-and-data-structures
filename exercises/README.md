@@ -99,3 +99,9 @@ Check the file `capitalize_first.js` for code and `capitalize_first.test.js` for
 Given an object that my contain nested object, return the sum of all even numbers on those objects
 
 Check the file `nested_even_sum.js` for code and `nested_even_sum.test.js` for test cases.
+
+### Capitalize words
+
+Given an array with words, return the same array with all the words capitalized
+
+Check the file `capitalize_words.js` for code and `capitalize_words.test.js` for test cases.
