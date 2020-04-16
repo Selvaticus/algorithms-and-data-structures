@@ -93,3 +93,9 @@ Check the file `flatten.js` for code and `flatten.test.js` for test cases.
 Given an array of strings, capitalize the first letter of each string
 
 Check the file `capitalize_first.js` for code and `capitalize_first.test.js` for test cases.
+
+### Nested even sum
+
+Given an object that my contain nested object, return the sum of all even numbers on those objects
+
+Check the file `nested_even_sum.js` for code and `nested_even_sum.test.js` for test cases.
