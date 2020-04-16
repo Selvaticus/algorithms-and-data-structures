@@ -105,3 +105,9 @@ Check the file `nested_even_sum.js` for code and `nested_even_sum.test.js` for t
 Given an array with words, return the same array with all the words capitalized
 
 Check the file `capitalize_words.js` for code and `capitalize_words.test.js` for test cases.
+
+### Stringigy numbers
+
+Given an object transform all the valyes that are numbers into string representations of the same value.
+
+Check the file `stringify_numbers.js` for code and `stringify_numbers.test.js` for test cases.
