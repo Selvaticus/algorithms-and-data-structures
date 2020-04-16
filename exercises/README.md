@@ -108,6 +108,12 @@ Check the file `capitalize_words.js` for code and `capitalize_words.test.js` for
 
 ### Stringigy numbers
 
-Given an object transform all the valyes that are numbers into string representations of the same value.
+Given an object transform all the values that are numbers into string representations of the same value.
 
 Check the file `stringify_numbers.js` for code and `stringify_numbers.test.js` for test cases.
+
+### Collect strings
+
+Given an object collect all the values that are strings into an array (Object might be nested)
+
+Check the file `collect_strings.js` for code and `collect_strings.test.js` for test cases.
