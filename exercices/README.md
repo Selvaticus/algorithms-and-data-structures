@@ -87,3 +87,9 @@ Check the file `any.js` for code and `any.test.js` for test cases.
 Given an array that may contain other arrays, return a single array with all the values in the root and children arrays
 
 Check the file `flatten.js` for code and `flatten.test.js` for test cases.
+
+### Capitalize First
+
+Given an array of strings, capitalize the first letter of each string
+
+Check the file `capitalize_first.js` for code and `capitalize_first.test.js` for test cases.
